@@ -22,9 +22,9 @@ The RISE11 Dashboard is a responsive and dynamic user interface built using Reac
 
 ### Modular Components
 - **Sidebar**: Reusable navigation menu with active state highlighting.
-- **Header**: Displays the dashboard title and action buttons.
+- **Dashboard**: Displays the dashboard title and action buttons.
 - **ProgressBar**: Dynamically updates based on task completion.
-- **Input Forms**: Modular input components to streamline form creation.
+
 
 ---
 
